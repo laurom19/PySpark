@@ -1,0 +1,6002 @@
+[
+    {
+        "id_cliente": 1001,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 746656
+    },
+    {
+        "id_cliente": 1002,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 379647
+    },
+    {
+        "id_cliente": 1003,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 350788
+    },
+    {
+        "id_cliente": 1004,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 411688
+    },
+    {
+        "id_cliente": 1005,
+        "atraso_maximo": 15,
+        "estado": "Al dia",
+        "limite_actual": 487864
+    },
+    {
+        "id_cliente": 1006,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 737216
+    },
+    {
+        "id_cliente": 1007,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 744679
+    },
+    {
+        "id_cliente": 1008,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 511417
+    },
+    {
+        "id_cliente": 1009,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 413846
+    },
+    {
+        "id_cliente": 1010,
+        "atraso_maximo": 85,
+        "estado": "Mora",
+        "limite_actual": 545216
+    },
+    {
+        "id_cliente": 1011,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 254131
+    },
+    {
+        "id_cliente": 1012,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 944127
+    },
+    {
+        "id_cliente": 1013,
+        "atraso_maximo": 92,
+        "estado": "Judicial",
+        "limite_actual": 254650
+    },
+    {
+        "id_cliente": 1014,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 281073
+    },
+    {
+        "id_cliente": 1015,
+        "atraso_maximo": 90,
+        "estado": "Judicial",
+        "limite_actual": 704338
+    },
+    {
+        "id_cliente": 1016,
+        "atraso_maximo": 43,
+        "estado": "Mora",
+        "limite_actual": 408847
+    },
+    {
+        "id_cliente": 1017,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 746737
+    },
+    {
+        "id_cliente": 1018,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 151467
+    },
+    {
+        "id_cliente": 1019,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 394819
+    },
+    {
+        "id_cliente": 1020,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 27621
+    },
+    {
+        "id_cliente": 1021,
+        "atraso_maximo": 32,
+        "estado": "Mora",
+        "limite_actual": 693756
+    },
+    {
+        "id_cliente": 1022,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 459302
+    },
+    {
+        "id_cliente": 1023,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 959922
+    },
+    {
+        "id_cliente": 1024,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 50403
+    },
+    {
+        "id_cliente": 1025,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 106801
+    },
+    {
+        "id_cliente": 1026,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 408661
+    },
+    {
+        "id_cliente": 1027,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 677311
+    },
+    {
+        "id_cliente": 1028,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 860430
+    },
+    {
+        "id_cliente": 1029,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 793524
+    },
+    {
+        "id_cliente": 1030,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 521163
+    },
+    {
+        "id_cliente": 1031,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 250418
+    },
+    {
+        "id_cliente": 1032,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 465908
+    },
+    {
+        "id_cliente": 1033,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 575770
+    },
+    {
+        "id_cliente": 1034,
+        "atraso_maximo": 101,
+        "estado": "Judicial",
+        "limite_actual": 769774
+    },
+    {
+        "id_cliente": 1035,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 119042
+    },
+    {
+        "id_cliente": 1036,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 709501
+    },
+    {
+        "id_cliente": 1037,
+        "atraso_maximo": 60,
+        "estado": "Mora",
+        "limite_actual": 475623
+    },
+    {
+        "id_cliente": 1038,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 505867
+    },
+    {
+        "id_cliente": 1039,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 270936
+    },
+    {
+        "id_cliente": 1040,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 43215
+    },
+    {
+        "id_cliente": 1041,
+        "atraso_maximo": 95,
+        "estado": "Judicial",
+        "limite_actual": 311062
+    },
+    {
+        "id_cliente": 1042,
+        "atraso_maximo": 3,
+        "estado": "Al dia",
+        "limite_actual": 467103
+    },
+    {
+        "id_cliente": 1043,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 806001
+    },
+    {
+        "id_cliente": 1044,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 690153
+    },
+    {
+        "id_cliente": 1045,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 364898
+    },
+    {
+        "id_cliente": 1046,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 136183
+    },
+    {
+        "id_cliente": 1047,
+        "atraso_maximo": 67,
+        "estado": "Mora",
+        "limite_actual": 413412
+    },
+    {
+        "id_cliente": 1048,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 487961
+    },
+    {
+        "id_cliente": 1049,
+        "atraso_maximo": 58,
+        "estado": "Mora",
+        "limite_actual": 67190
+    },
+    {
+        "id_cliente": 1050,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 701666
+    },
+    {
+        "id_cliente": 1051,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 30921
+    },
+    {
+        "id_cliente": 1052,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 930490
+    },
+    {
+        "id_cliente": 1053,
+        "atraso_maximo": 95,
+        "estado": "Judicial",
+        "limite_actual": 763055
+    },
+    {
+        "id_cliente": 1054,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 104714
+    },
+    {
+        "id_cliente": 1055,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 767897
+    },
+    {
+        "id_cliente": 1056,
+        "atraso_maximo": 119,
+        "estado": "Judicial",
+        "limite_actual": 805312
+    },
+    {
+        "id_cliente": 1057,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 38563
+    },
+    {
+        "id_cliente": 1058,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 435408
+    },
+    {
+        "id_cliente": 1059,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 160726
+    },
+    {
+        "id_cliente": 1060,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 201447
+    },
+    {
+        "id_cliente": 1061,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 559600
+    },
+    {
+        "id_cliente": 1062,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 221290
+    },
+    {
+        "id_cliente": 1063,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 343415
+    },
+    {
+        "id_cliente": 1064,
+        "atraso_maximo": 77,
+        "estado": "Mora",
+        "limite_actual": 355456
+    },
+    {
+        "id_cliente": 1065,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 192178
+    },
+    {
+        "id_cliente": 1066,
+        "atraso_maximo": 49,
+        "estado": "Mora",
+        "limite_actual": 515224
+    },
+    {
+        "id_cliente": 1067,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 601554
+    },
+    {
+        "id_cliente": 1068,
+        "atraso_maximo": 71,
+        "estado": "Mora",
+        "limite_actual": 967587
+    },
+    {
+        "id_cliente": 1069,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 357667
+    },
+    {
+        "id_cliente": 1070,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 91845
+    },
+    {
+        "id_cliente": 1071,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 276625
+    },
+    {
+        "id_cliente": 1072,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 882926
+    },
+    {
+        "id_cliente": 1073,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 791636
+    },
+    {
+        "id_cliente": 1074,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 808704
+    },
+    {
+        "id_cliente": 1075,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 250368
+    },
+    {
+        "id_cliente": 1076,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 117545
+    },
+    {
+        "id_cliente": 1077,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 456145
+    },
+    {
+        "id_cliente": 1078,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 395964
+    },
+    {
+        "id_cliente": 1079,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 916680
+    },
+    {
+        "id_cliente": 1080,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 407077
+    },
+    {
+        "id_cliente": 1081,
+        "atraso_maximo": 100,
+        "estado": "Judicial",
+        "limite_actual": 825210
+    },
+    {
+        "id_cliente": 1082,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 542441
+    },
+    {
+        "id_cliente": 1083,
+        "atraso_maximo": 89,
+        "estado": "Mora",
+        "limite_actual": 961933
+    },
+    {
+        "id_cliente": 1084,
+        "atraso_maximo": 44,
+        "estado": "Mora",
+        "limite_actual": 220210
+    },
+    {
+        "id_cliente": 1085,
+        "atraso_maximo": 18,
+        "estado": "Al dia",
+        "limite_actual": 32727
+    },
+    {
+        "id_cliente": 1086,
+        "atraso_maximo": 99,
+        "estado": "Judicial",
+        "limite_actual": 598690
+    },
+    {
+        "id_cliente": 1087,
+        "atraso_maximo": 53,
+        "estado": "Mora",
+        "limite_actual": 898394
+    },
+    {
+        "id_cliente": 1088,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 347304
+    },
+    {
+        "id_cliente": 1089,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 690979
+    },
+    {
+        "id_cliente": 1090,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 315262
+    },
+    {
+        "id_cliente": 1091,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 860970
+    },
+    {
+        "id_cliente": 1092,
+        "atraso_maximo": 79,
+        "estado": "Mora",
+        "limite_actual": 628116
+    },
+    {
+        "id_cliente": 1093,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 272460
+    },
+    {
+        "id_cliente": 1094,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 999373
+    },
+    {
+        "id_cliente": 1095,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 555944
+    },
+    {
+        "id_cliente": 1096,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 446165
+    },
+    {
+        "id_cliente": 1097,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 849168
+    },
+    {
+        "id_cliente": 1098,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 444095
+    },
+    {
+        "id_cliente": 1099,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 650558
+    },
+    {
+        "id_cliente": 1100,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 922511
+    },
+    {
+        "id_cliente": 1101,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 302040
+    },
+    {
+        "id_cliente": 1102,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 682961
+    },
+    {
+        "id_cliente": 1103,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 728843
+    },
+    {
+        "id_cliente": 1104,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 539940
+    },
+    {
+        "id_cliente": 1105,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 923138
+    },
+    {
+        "id_cliente": 1106,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 999250
+    },
+    {
+        "id_cliente": 1107,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 96836
+    },
+    {
+        "id_cliente": 1108,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 730682
+    },
+    {
+        "id_cliente": 1109,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 506493
+    },
+    {
+        "id_cliente": 1110,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 899098
+    },
+    {
+        "id_cliente": 1111,
+        "atraso_maximo": 32,
+        "estado": "Mora",
+        "limite_actual": 301248
+    },
+    {
+        "id_cliente": 1112,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 364196
+    },
+    {
+        "id_cliente": 1113,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 971678
+    },
+    {
+        "id_cliente": 1114,
+        "atraso_maximo": 53,
+        "estado": "Mora",
+        "limite_actual": 418215
+    },
+    {
+        "id_cliente": 1115,
+        "atraso_maximo": 103,
+        "estado": "Judicial",
+        "limite_actual": 302380
+    },
+    {
+        "id_cliente": 1116,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 861040
+    },
+    {
+        "id_cliente": 1117,
+        "atraso_maximo": 44,
+        "estado": "Mora",
+        "limite_actual": 682203
+    },
+    {
+        "id_cliente": 1118,
+        "atraso_maximo": 109,
+        "estado": "Judicial",
+        "limite_actual": 269987
+    },
+    {
+        "id_cliente": 1119,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 666103
+    },
+    {
+        "id_cliente": 1120,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 262767
+    },
+    {
+        "id_cliente": 1121,
+        "atraso_maximo": 89,
+        "estado": "Mora",
+        "limite_actual": 705031
+    },
+    {
+        "id_cliente": 1122,
+        "atraso_maximo": 90,
+        "estado": "Judicial",
+        "limite_actual": 545552
+    },
+    {
+        "id_cliente": 1123,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 496790
+    },
+    {
+        "id_cliente": 1124,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 937239
+    },
+    {
+        "id_cliente": 1125,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 25574
+    },
+    {
+        "id_cliente": 1126,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 702216
+    },
+    {
+        "id_cliente": 1127,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 956180
+    },
+    {
+        "id_cliente": 1128,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 590552
+    },
+    {
+        "id_cliente": 1129,
+        "atraso_maximo": 35,
+        "estado": "Mora",
+        "limite_actual": 905262
+    },
+    {
+        "id_cliente": 1130,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 695577
+    },
+    {
+        "id_cliente": 1131,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 207508
+    },
+    {
+        "id_cliente": 1132,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 381685
+    },
+    {
+        "id_cliente": 1133,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 732524
+    },
+    {
+        "id_cliente": 1134,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 576943
+    },
+    {
+        "id_cliente": 1135,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 919898
+    },
+    {
+        "id_cliente": 1136,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 686624
+    },
+    {
+        "id_cliente": 1137,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 782390
+    },
+    {
+        "id_cliente": 1138,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 135929
+    },
+    {
+        "id_cliente": 1139,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 249546
+    },
+    {
+        "id_cliente": 1140,
+        "atraso_maximo": 100,
+        "estado": "Judicial",
+        "limite_actual": 155540
+    },
+    {
+        "id_cliente": 1141,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 31197
+    },
+    {
+        "id_cliente": 1142,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 86503
+    },
+    {
+        "id_cliente": 1143,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 840264
+    },
+    {
+        "id_cliente": 1144,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 998931
+    },
+    {
+        "id_cliente": 1145,
+        "atraso_maximo": 104,
+        "estado": "Judicial",
+        "limite_actual": 676091
+    },
+    {
+        "id_cliente": 1146,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 791389
+    },
+    {
+        "id_cliente": 1147,
+        "atraso_maximo": 115,
+        "estado": "Judicial",
+        "limite_actual": 317799
+    },
+    {
+        "id_cliente": 1148,
+        "atraso_maximo": 22,
+        "estado": "Al dia",
+        "limite_actual": 725346
+    },
+    {
+        "id_cliente": 1149,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 305225
+    },
+    {
+        "id_cliente": 1150,
+        "atraso_maximo": 32,
+        "estado": "Mora",
+        "limite_actual": 800391
+    },
+    {
+        "id_cliente": 1151,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 271018
+    },
+    {
+        "id_cliente": 1152,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 493440
+    },
+    {
+        "id_cliente": 1153,
+        "atraso_maximo": 56,
+        "estado": "Mora",
+        "limite_actual": 625741
+    },
+    {
+        "id_cliente": 1154,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 360442
+    },
+    {
+        "id_cliente": 1155,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 807740
+    },
+    {
+        "id_cliente": 1156,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 294400
+    },
+    {
+        "id_cliente": 1157,
+        "atraso_maximo": 101,
+        "estado": "Judicial",
+        "limite_actual": 247674
+    },
+    {
+        "id_cliente": 1158,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 154933
+    },
+    {
+        "id_cliente": 1159,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 689705
+    },
+    {
+        "id_cliente": 1160,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 718233
+    },
+    {
+        "id_cliente": 1161,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 233638
+    },
+    {
+        "id_cliente": 1162,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 941804
+    },
+    {
+        "id_cliente": 1163,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 390729
+    },
+    {
+        "id_cliente": 1164,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 24331
+    },
+    {
+        "id_cliente": 1165,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 978497
+    },
+    {
+        "id_cliente": 1166,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 746698
+    },
+    {
+        "id_cliente": 1167,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 140529
+    },
+    {
+        "id_cliente": 1168,
+        "atraso_maximo": 56,
+        "estado": "Mora",
+        "limite_actual": 454413
+    },
+    {
+        "id_cliente": 1169,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 437057
+    },
+    {
+        "id_cliente": 1170,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 106007
+    },
+    {
+        "id_cliente": 1171,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 591858
+    },
+    {
+        "id_cliente": 1172,
+        "atraso_maximo": 43,
+        "estado": "Mora",
+        "limite_actual": 538238
+    },
+    {
+        "id_cliente": 1173,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 879440
+    },
+    {
+        "id_cliente": 1174,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 778453
+    },
+    {
+        "id_cliente": 1175,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 589213
+    },
+    {
+        "id_cliente": 1176,
+        "atraso_maximo": 32,
+        "estado": "Mora",
+        "limite_actual": 283884
+    },
+    {
+        "id_cliente": 1177,
+        "atraso_maximo": 35,
+        "estado": "Mora",
+        "limite_actual": 752427
+    },
+    {
+        "id_cliente": 1178,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 654984
+    },
+    {
+        "id_cliente": 1179,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 456240
+    },
+    {
+        "id_cliente": 1180,
+        "atraso_maximo": 115,
+        "estado": "Judicial",
+        "limite_actual": 941260
+    },
+    {
+        "id_cliente": 1181,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 792339
+    },
+    {
+        "id_cliente": 1182,
+        "atraso_maximo": 6,
+        "estado": "Al dia",
+        "limite_actual": 243757
+    },
+    {
+        "id_cliente": 1183,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 61057
+    },
+    {
+        "id_cliente": 1184,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 437089
+    },
+    {
+        "id_cliente": 1185,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 555062
+    },
+    {
+        "id_cliente": 1186,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 895514
+    },
+    {
+        "id_cliente": 1187,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 336106
+    },
+    {
+        "id_cliente": 1188,
+        "atraso_maximo": 92,
+        "estado": "Judicial",
+        "limite_actual": 833304
+    },
+    {
+        "id_cliente": 1189,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 540894
+    },
+    {
+        "id_cliente": 1190,
+        "atraso_maximo": 44,
+        "estado": "Mora",
+        "limite_actual": 434584
+    },
+    {
+        "id_cliente": 1191,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 583163
+    },
+    {
+        "id_cliente": 1192,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 963098
+    },
+    {
+        "id_cliente": 1193,
+        "atraso_maximo": 77,
+        "estado": "Mora",
+        "limite_actual": 165055
+    },
+    {
+        "id_cliente": 1194,
+        "atraso_maximo": 15,
+        "estado": "Al dia",
+        "limite_actual": 977360
+    },
+    {
+        "id_cliente": 1195,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 871824
+    },
+    {
+        "id_cliente": 1196,
+        "atraso_maximo": 51,
+        "estado": "Mora",
+        "limite_actual": 272539
+    },
+    {
+        "id_cliente": 1197,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 652705
+    },
+    {
+        "id_cliente": 1198,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 742771
+    },
+    {
+        "id_cliente": 1199,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 708813
+    },
+    {
+        "id_cliente": 1200,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 456173
+    },
+    {
+        "id_cliente": 1201,
+        "atraso_maximo": 4,
+        "estado": "Al dia",
+        "limite_actual": 530690
+    },
+    {
+        "id_cliente": 1202,
+        "atraso_maximo": 7,
+        "estado": "Al dia",
+        "limite_actual": 547180
+    },
+    {
+        "id_cliente": 1203,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 121360
+    },
+    {
+        "id_cliente": 1204,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 814853
+    },
+    {
+        "id_cliente": 1205,
+        "atraso_maximo": 13,
+        "estado": "Al dia",
+        "limite_actual": 199427
+    },
+    {
+        "id_cliente": 1206,
+        "atraso_maximo": 60,
+        "estado": "Mora",
+        "limite_actual": 78803
+    },
+    {
+        "id_cliente": 1207,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 514352
+    },
+    {
+        "id_cliente": 1208,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 96819
+    },
+    {
+        "id_cliente": 1209,
+        "atraso_maximo": 90,
+        "estado": "Judicial",
+        "limite_actual": 911786
+    },
+    {
+        "id_cliente": 1210,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 436778
+    },
+    {
+        "id_cliente": 1211,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 870509
+    },
+    {
+        "id_cliente": 1212,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 847590
+    },
+    {
+        "id_cliente": 1213,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 427978
+    },
+    {
+        "id_cliente": 1214,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 533774
+    },
+    {
+        "id_cliente": 1215,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 562872
+    },
+    {
+        "id_cliente": 1216,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 42130
+    },
+    {
+        "id_cliente": 1217,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 838847
+    },
+    {
+        "id_cliente": 1218,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 222478
+    },
+    {
+        "id_cliente": 1219,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 450536
+    },
+    {
+        "id_cliente": 1220,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 454979
+    },
+    {
+        "id_cliente": 1221,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 879906
+    },
+    {
+        "id_cliente": 1222,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 371948
+    },
+    {
+        "id_cliente": 1223,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 838349
+    },
+    {
+        "id_cliente": 1224,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 688945
+    },
+    {
+        "id_cliente": 1225,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 758914
+    },
+    {
+        "id_cliente": 1226,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 362643
+    },
+    {
+        "id_cliente": 1227,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 958696
+    },
+    {
+        "id_cliente": 1228,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 175782
+    },
+    {
+        "id_cliente": 1229,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 390368
+    },
+    {
+        "id_cliente": 1230,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 210741
+    },
+    {
+        "id_cliente": 1231,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 473923
+    },
+    {
+        "id_cliente": 1232,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 840128
+    },
+    {
+        "id_cliente": 1233,
+        "atraso_maximo": 0,
+        "estado": "Al dia",
+        "limite_actual": 70072
+    },
+    {
+        "id_cliente": 1234,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 859349
+    },
+    {
+        "id_cliente": 1235,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 39020
+    },
+    {
+        "id_cliente": 1236,
+        "atraso_maximo": 55,
+        "estado": "Mora",
+        "limite_actual": 233179
+    },
+    {
+        "id_cliente": 1237,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 395103
+    },
+    {
+        "id_cliente": 1238,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 746723
+    },
+    {
+        "id_cliente": 1239,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 987632
+    },
+    {
+        "id_cliente": 1240,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 904190
+    },
+    {
+        "id_cliente": 1241,
+        "atraso_maximo": 56,
+        "estado": "Mora",
+        "limite_actual": 848818
+    },
+    {
+        "id_cliente": 1242,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 165258
+    },
+    {
+        "id_cliente": 1243,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 206414
+    },
+    {
+        "id_cliente": 1244,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 729965
+    },
+    {
+        "id_cliente": 1245,
+        "atraso_maximo": 22,
+        "estado": "Al dia",
+        "limite_actual": 298330
+    },
+    {
+        "id_cliente": 1246,
+        "atraso_maximo": 44,
+        "estado": "Mora",
+        "limite_actual": 284081
+    },
+    {
+        "id_cliente": 1247,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 963772
+    },
+    {
+        "id_cliente": 1248,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 168577
+    },
+    {
+        "id_cliente": 1249,
+        "atraso_maximo": 109,
+        "estado": "Judicial",
+        "limite_actual": 653794
+    },
+    {
+        "id_cliente": 1250,
+        "atraso_maximo": 25,
+        "estado": "Al dia",
+        "limite_actual": 683750
+    },
+    {
+        "id_cliente": 1251,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 747942
+    },
+    {
+        "id_cliente": 1252,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 722391
+    },
+    {
+        "id_cliente": 1253,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 69890
+    },
+    {
+        "id_cliente": 1254,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 227858
+    },
+    {
+        "id_cliente": 1255,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 706731
+    },
+    {
+        "id_cliente": 1256,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 272518
+    },
+    {
+        "id_cliente": 1257,
+        "atraso_maximo": 67,
+        "estado": "Mora",
+        "limite_actual": 476080
+    },
+    {
+        "id_cliente": 1258,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 230068
+    },
+    {
+        "id_cliente": 1259,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 429606
+    },
+    {
+        "id_cliente": 1260,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 172160
+    },
+    {
+        "id_cliente": 1261,
+        "atraso_maximo": 31,
+        "estado": "Mora",
+        "limite_actual": 255758
+    },
+    {
+        "id_cliente": 1262,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 790671
+    },
+    {
+        "id_cliente": 1263,
+        "atraso_maximo": 89,
+        "estado": "Mora",
+        "limite_actual": 243346
+    },
+    {
+        "id_cliente": 1264,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 744270
+    },
+    {
+        "id_cliente": 1265,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 185272
+    },
+    {
+        "id_cliente": 1266,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 606051
+    },
+    {
+        "id_cliente": 1267,
+        "atraso_maximo": 107,
+        "estado": "Judicial",
+        "limite_actual": 843242
+    },
+    {
+        "id_cliente": 1268,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 979666
+    },
+    {
+        "id_cliente": 1269,
+        "atraso_maximo": 107,
+        "estado": "Judicial",
+        "limite_actual": 784101
+    },
+    {
+        "id_cliente": 1270,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 367439
+    },
+    {
+        "id_cliente": 1271,
+        "atraso_maximo": 111,
+        "estado": "Judicial",
+        "limite_actual": 86690
+    },
+    {
+        "id_cliente": 1272,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 669438
+    },
+    {
+        "id_cliente": 1273,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 291540
+    },
+    {
+        "id_cliente": 1274,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 295547
+    },
+    {
+        "id_cliente": 1275,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 925090
+    },
+    {
+        "id_cliente": 1276,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 146010
+    },
+    {
+        "id_cliente": 1277,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 549858
+    },
+    {
+        "id_cliente": 1278,
+        "atraso_maximo": 4,
+        "estado": "Al dia",
+        "limite_actual": 351438
+    },
+    {
+        "id_cliente": 1279,
+        "atraso_maximo": 114,
+        "estado": "Judicial",
+        "limite_actual": 263375
+    },
+    {
+        "id_cliente": 1280,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 343370
+    },
+    {
+        "id_cliente": 1281,
+        "atraso_maximo": 35,
+        "estado": "Mora",
+        "limite_actual": 715581
+    },
+    {
+        "id_cliente": 1282,
+        "atraso_maximo": 114,
+        "estado": "Judicial",
+        "limite_actual": 773807
+    },
+    {
+        "id_cliente": 1283,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 65481
+    },
+    {
+        "id_cliente": 1284,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 279618
+    },
+    {
+        "id_cliente": 1285,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 127618
+    },
+    {
+        "id_cliente": 1286,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 68324
+    },
+    {
+        "id_cliente": 1287,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 56408
+    },
+    {
+        "id_cliente": 1288,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 284360
+    },
+    {
+        "id_cliente": 1289,
+        "atraso_maximo": 119,
+        "estado": "Judicial",
+        "limite_actual": 124587
+    },
+    {
+        "id_cliente": 1290,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 739500
+    },
+    {
+        "id_cliente": 1291,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 735214
+    },
+    {
+        "id_cliente": 1292,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 842535
+    },
+    {
+        "id_cliente": 1293,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 305372
+    },
+    {
+        "id_cliente": 1294,
+        "atraso_maximo": 107,
+        "estado": "Judicial",
+        "limite_actual": 40599
+    },
+    {
+        "id_cliente": 1295,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 576052
+    },
+    {
+        "id_cliente": 1296,
+        "atraso_maximo": 67,
+        "estado": "Mora",
+        "limite_actual": 58289
+    },
+    {
+        "id_cliente": 1297,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 754219
+    },
+    {
+        "id_cliente": 1298,
+        "atraso_maximo": 55,
+        "estado": "Mora",
+        "limite_actual": 605236
+    },
+    {
+        "id_cliente": 1299,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 290084
+    },
+    {
+        "id_cliente": 1300,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 735387
+    },
+    {
+        "id_cliente": 1301,
+        "atraso_maximo": 77,
+        "estado": "Mora",
+        "limite_actual": 65819
+    },
+    {
+        "id_cliente": 1302,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 497472
+    },
+    {
+        "id_cliente": 1303,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 914880
+    },
+    {
+        "id_cliente": 1304,
+        "atraso_maximo": 24,
+        "estado": "Al dia",
+        "limite_actual": 653688
+    },
+    {
+        "id_cliente": 1305,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 802136
+    },
+    {
+        "id_cliente": 1306,
+        "atraso_maximo": 7,
+        "estado": "Al dia",
+        "limite_actual": 159394
+    },
+    {
+        "id_cliente": 1307,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 331210
+    },
+    {
+        "id_cliente": 1308,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 787649
+    },
+    {
+        "id_cliente": 1309,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 308374
+    },
+    {
+        "id_cliente": 1310,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 445474
+    },
+    {
+        "id_cliente": 1311,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 186951
+    },
+    {
+        "id_cliente": 1312,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 66035
+    },
+    {
+        "id_cliente": 1313,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 257689
+    },
+    {
+        "id_cliente": 1314,
+        "atraso_maximo": 22,
+        "estado": "Al dia",
+        "limite_actual": 887113
+    },
+    {
+        "id_cliente": 1315,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 20573
+    },
+    {
+        "id_cliente": 1316,
+        "atraso_maximo": 35,
+        "estado": "Mora",
+        "limite_actual": 615108
+    },
+    {
+        "id_cliente": 1317,
+        "atraso_maximo": 6,
+        "estado": "Al dia",
+        "limite_actual": 42001
+    },
+    {
+        "id_cliente": 1318,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 446855
+    },
+    {
+        "id_cliente": 1319,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 53933
+    },
+    {
+        "id_cliente": 1320,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 828206
+    },
+    {
+        "id_cliente": 1321,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 955657
+    },
+    {
+        "id_cliente": 1322,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 773782
+    },
+    {
+        "id_cliente": 1323,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 789140
+    },
+    {
+        "id_cliente": 1324,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 486593
+    },
+    {
+        "id_cliente": 1325,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 107272
+    },
+    {
+        "id_cliente": 1326,
+        "atraso_maximo": 7,
+        "estado": "Al dia",
+        "limite_actual": 171681
+    },
+    {
+        "id_cliente": 1327,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 962736
+    },
+    {
+        "id_cliente": 1328,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 495114
+    },
+    {
+        "id_cliente": 1329,
+        "atraso_maximo": 24,
+        "estado": "Al dia",
+        "limite_actual": 615242
+    },
+    {
+        "id_cliente": 1330,
+        "atraso_maximo": 22,
+        "estado": "Al dia",
+        "limite_actual": 611911
+    },
+    {
+        "id_cliente": 1331,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 128031
+    },
+    {
+        "id_cliente": 1332,
+        "atraso_maximo": 96,
+        "estado": "Judicial",
+        "limite_actual": 343611
+    },
+    {
+        "id_cliente": 1333,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 570604
+    },
+    {
+        "id_cliente": 1334,
+        "atraso_maximo": 95,
+        "estado": "Judicial",
+        "limite_actual": 910832
+    },
+    {
+        "id_cliente": 1335,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 800700
+    },
+    {
+        "id_cliente": 1336,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 860204
+    },
+    {
+        "id_cliente": 1337,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 910287
+    },
+    {
+        "id_cliente": 1338,
+        "atraso_maximo": 67,
+        "estado": "Mora",
+        "limite_actual": 478666
+    },
+    {
+        "id_cliente": 1339,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 120085
+    },
+    {
+        "id_cliente": 1340,
+        "atraso_maximo": 103,
+        "estado": "Judicial",
+        "limite_actual": 504295
+    },
+    {
+        "id_cliente": 1341,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 104898
+    },
+    {
+        "id_cliente": 1342,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 559780
+    },
+    {
+        "id_cliente": 1343,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 293448
+    },
+    {
+        "id_cliente": 1344,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 258943
+    },
+    {
+        "id_cliente": 1345,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 713869
+    },
+    {
+        "id_cliente": 1346,
+        "atraso_maximo": 99,
+        "estado": "Judicial",
+        "limite_actual": 154830
+    },
+    {
+        "id_cliente": 1347,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 597140
+    },
+    {
+        "id_cliente": 1348,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 750534
+    },
+    {
+        "id_cliente": 1349,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 628279
+    },
+    {
+        "id_cliente": 1350,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 131835
+    },
+    {
+        "id_cliente": 1351,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 356859
+    },
+    {
+        "id_cliente": 1352,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 234427
+    },
+    {
+        "id_cliente": 1353,
+        "atraso_maximo": 25,
+        "estado": "Al dia",
+        "limite_actual": 755140
+    },
+    {
+        "id_cliente": 1354,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 368424
+    },
+    {
+        "id_cliente": 1355,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 62500
+    },
+    {
+        "id_cliente": 1356,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 662563
+    },
+    {
+        "id_cliente": 1357,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 360181
+    },
+    {
+        "id_cliente": 1358,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 698884
+    },
+    {
+        "id_cliente": 1359,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 268849
+    },
+    {
+        "id_cliente": 1360,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 203257
+    },
+    {
+        "id_cliente": 1361,
+        "atraso_maximo": 58,
+        "estado": "Mora",
+        "limite_actual": 913140
+    },
+    {
+        "id_cliente": 1362,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 587527
+    },
+    {
+        "id_cliente": 1363,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 55572
+    },
+    {
+        "id_cliente": 1364,
+        "atraso_maximo": 15,
+        "estado": "Al dia",
+        "limite_actual": 56937
+    },
+    {
+        "id_cliente": 1365,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 362266
+    },
+    {
+        "id_cliente": 1366,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 468191
+    },
+    {
+        "id_cliente": 1367,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 705741
+    },
+    {
+        "id_cliente": 1368,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 846221
+    },
+    {
+        "id_cliente": 1369,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 906249
+    },
+    {
+        "id_cliente": 1370,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 756230
+    },
+    {
+        "id_cliente": 1371,
+        "atraso_maximo": 25,
+        "estado": "Al dia",
+        "limite_actual": 253566
+    },
+    {
+        "id_cliente": 1372,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 880340
+    },
+    {
+        "id_cliente": 1373,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 822042
+    },
+    {
+        "id_cliente": 1374,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 636018
+    },
+    {
+        "id_cliente": 1375,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 514802
+    },
+    {
+        "id_cliente": 1376,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 675398
+    },
+    {
+        "id_cliente": 1377,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 132330
+    },
+    {
+        "id_cliente": 1378,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 401801
+    },
+    {
+        "id_cliente": 1379,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 897553
+    },
+    {
+        "id_cliente": 1380,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 886386
+    },
+    {
+        "id_cliente": 1381,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 542042
+    },
+    {
+        "id_cliente": 1382,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 541486
+    },
+    {
+        "id_cliente": 1383,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 368275
+    },
+    {
+        "id_cliente": 1384,
+        "atraso_maximo": 77,
+        "estado": "Mora",
+        "limite_actual": 50346
+    },
+    {
+        "id_cliente": 1385,
+        "atraso_maximo": 3,
+        "estado": "Al dia",
+        "limite_actual": 509423
+    },
+    {
+        "id_cliente": 1386,
+        "atraso_maximo": 49,
+        "estado": "Mora",
+        "limite_actual": 451968
+    },
+    {
+        "id_cliente": 1387,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 917606
+    },
+    {
+        "id_cliente": 1388,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 389952
+    },
+    {
+        "id_cliente": 1389,
+        "atraso_maximo": 4,
+        "estado": "Al dia",
+        "limite_actual": 166849
+    },
+    {
+        "id_cliente": 1390,
+        "atraso_maximo": 71,
+        "estado": "Mora",
+        "limite_actual": 942892
+    },
+    {
+        "id_cliente": 1391,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 613987
+    },
+    {
+        "id_cliente": 1392,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 205229
+    },
+    {
+        "id_cliente": 1393,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 293828
+    },
+    {
+        "id_cliente": 1394,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 634667
+    },
+    {
+        "id_cliente": 1395,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 424943
+    },
+    {
+        "id_cliente": 1396,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 909338
+    },
+    {
+        "id_cliente": 1397,
+        "atraso_maximo": 35,
+        "estado": "Mora",
+        "limite_actual": 674116
+    },
+    {
+        "id_cliente": 1398,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 156059
+    },
+    {
+        "id_cliente": 1399,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 124834
+    },
+    {
+        "id_cliente": 1400,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 560282
+    },
+    {
+        "id_cliente": 1401,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 899462
+    },
+    {
+        "id_cliente": 1402,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 359528
+    },
+    {
+        "id_cliente": 1403,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 856001
+    },
+    {
+        "id_cliente": 1404,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 849705
+    },
+    {
+        "id_cliente": 1405,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 506954
+    },
+    {
+        "id_cliente": 1406,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 928799
+    },
+    {
+        "id_cliente": 1407,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 886982
+    },
+    {
+        "id_cliente": 1408,
+        "atraso_maximo": 111,
+        "estado": "Judicial",
+        "limite_actual": 873709
+    },
+    {
+        "id_cliente": 1409,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 937527
+    },
+    {
+        "id_cliente": 1410,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 118654
+    },
+    {
+        "id_cliente": 1411,
+        "atraso_maximo": 100,
+        "estado": "Judicial",
+        "limite_actual": 782677
+    },
+    {
+        "id_cliente": 1412,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 841811
+    },
+    {
+        "id_cliente": 1413,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 774183
+    },
+    {
+        "id_cliente": 1414,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 217275
+    },
+    {
+        "id_cliente": 1415,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 437646
+    },
+    {
+        "id_cliente": 1416,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 790856
+    },
+    {
+        "id_cliente": 1417,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 743986
+    },
+    {
+        "id_cliente": 1418,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 88249
+    },
+    {
+        "id_cliente": 1419,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 229283
+    },
+    {
+        "id_cliente": 1420,
+        "atraso_maximo": 114,
+        "estado": "Judicial",
+        "limite_actual": 133281
+    },
+    {
+        "id_cliente": 1421,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 585586
+    },
+    {
+        "id_cliente": 1422,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 903254
+    },
+    {
+        "id_cliente": 1423,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 465394
+    },
+    {
+        "id_cliente": 1424,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 71085
+    },
+    {
+        "id_cliente": 1425,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 143777
+    },
+    {
+        "id_cliente": 1426,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 990613
+    },
+    {
+        "id_cliente": 1427,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 944225
+    },
+    {
+        "id_cliente": 1428,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 533862
+    },
+    {
+        "id_cliente": 1429,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 907836
+    },
+    {
+        "id_cliente": 1430,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 745749
+    },
+    {
+        "id_cliente": 1431,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 611575
+    },
+    {
+        "id_cliente": 1432,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 414384
+    },
+    {
+        "id_cliente": 1433,
+        "atraso_maximo": 10,
+        "estado": "Al dia",
+        "limite_actual": 988298
+    },
+    {
+        "id_cliente": 1434,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 201073
+    },
+    {
+        "id_cliente": 1435,
+        "atraso_maximo": 56,
+        "estado": "Mora",
+        "limite_actual": 864200
+    },
+    {
+        "id_cliente": 1436,
+        "atraso_maximo": 104,
+        "estado": "Judicial",
+        "limite_actual": 529409
+    },
+    {
+        "id_cliente": 1437,
+        "atraso_maximo": 43,
+        "estado": "Mora",
+        "limite_actual": 488040
+    },
+    {
+        "id_cliente": 1438,
+        "atraso_maximo": 89,
+        "estado": "Mora",
+        "limite_actual": 803537
+    },
+    {
+        "id_cliente": 1439,
+        "atraso_maximo": 15,
+        "estado": "Al dia",
+        "limite_actual": 30712
+    },
+    {
+        "id_cliente": 1440,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 210609
+    },
+    {
+        "id_cliente": 1441,
+        "atraso_maximo": 85,
+        "estado": "Mora",
+        "limite_actual": 565695
+    },
+    {
+        "id_cliente": 1442,
+        "atraso_maximo": 100,
+        "estado": "Judicial",
+        "limite_actual": 219314
+    },
+    {
+        "id_cliente": 1443,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 547086
+    },
+    {
+        "id_cliente": 1444,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 632472
+    },
+    {
+        "id_cliente": 1445,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 494395
+    },
+    {
+        "id_cliente": 1446,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 58226
+    },
+    {
+        "id_cliente": 1447,
+        "atraso_maximo": 18,
+        "estado": "Al dia",
+        "limite_actual": 39491
+    },
+    {
+        "id_cliente": 1448,
+        "atraso_maximo": 96,
+        "estado": "Judicial",
+        "limite_actual": 434274
+    },
+    {
+        "id_cliente": 1449,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 972188
+    },
+    {
+        "id_cliente": 1450,
+        "atraso_maximo": 31,
+        "estado": "Mora",
+        "limite_actual": 30542
+    },
+    {
+        "id_cliente": 1451,
+        "atraso_maximo": 77,
+        "estado": "Mora",
+        "limite_actual": 875994
+    },
+    {
+        "id_cliente": 1452,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 72102
+    },
+    {
+        "id_cliente": 1453,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 332669
+    },
+    {
+        "id_cliente": 1454,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 933178
+    },
+    {
+        "id_cliente": 1455,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 528822
+    },
+    {
+        "id_cliente": 1456,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 902276
+    },
+    {
+        "id_cliente": 1457,
+        "atraso_maximo": 53,
+        "estado": "Mora",
+        "limite_actual": 771354
+    },
+    {
+        "id_cliente": 1458,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 416367
+    },
+    {
+        "id_cliente": 1459,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 807810
+    },
+    {
+        "id_cliente": 1460,
+        "atraso_maximo": 53,
+        "estado": "Mora",
+        "limite_actual": 80516
+    },
+    {
+        "id_cliente": 1461,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 619193
+    },
+    {
+        "id_cliente": 1462,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 163788
+    },
+    {
+        "id_cliente": 1463,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 53612
+    },
+    {
+        "id_cliente": 1464,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 491463
+    },
+    {
+        "id_cliente": 1465,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 886377
+    },
+    {
+        "id_cliente": 1466,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 571651
+    },
+    {
+        "id_cliente": 1467,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 269897
+    },
+    {
+        "id_cliente": 1468,
+        "atraso_maximo": 49,
+        "estado": "Mora",
+        "limite_actual": 913642
+    },
+    {
+        "id_cliente": 1469,
+        "atraso_maximo": 77,
+        "estado": "Mora",
+        "limite_actual": 326478
+    },
+    {
+        "id_cliente": 1470,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 584265
+    },
+    {
+        "id_cliente": 1471,
+        "atraso_maximo": 99,
+        "estado": "Judicial",
+        "limite_actual": 21716
+    },
+    {
+        "id_cliente": 1472,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 307327
+    },
+    {
+        "id_cliente": 1473,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 232432
+    },
+    {
+        "id_cliente": 1474,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 263315
+    },
+    {
+        "id_cliente": 1475,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 34032
+    },
+    {
+        "id_cliente": 1476,
+        "atraso_maximo": 103,
+        "estado": "Judicial",
+        "limite_actual": 849070
+    },
+    {
+        "id_cliente": 1477,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 582266
+    },
+    {
+        "id_cliente": 1478,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 187842
+    },
+    {
+        "id_cliente": 1479,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 998621
+    },
+    {
+        "id_cliente": 1480,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 522677
+    },
+    {
+        "id_cliente": 1481,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 392816
+    },
+    {
+        "id_cliente": 1482,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 953679
+    },
+    {
+        "id_cliente": 1483,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 323679
+    },
+    {
+        "id_cliente": 1484,
+        "atraso_maximo": 114,
+        "estado": "Judicial",
+        "limite_actual": 177705
+    },
+    {
+        "id_cliente": 1485,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 254705
+    },
+    {
+        "id_cliente": 1486,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 656626
+    },
+    {
+        "id_cliente": 1487,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 309706
+    },
+    {
+        "id_cliente": 1488,
+        "atraso_maximo": 96,
+        "estado": "Judicial",
+        "limite_actual": 30619
+    },
+    {
+        "id_cliente": 1489,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 423084
+    },
+    {
+        "id_cliente": 1490,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 931685
+    },
+    {
+        "id_cliente": 1491,
+        "atraso_maximo": 6,
+        "estado": "Al dia",
+        "limite_actual": 996329
+    },
+    {
+        "id_cliente": 1492,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 723705
+    },
+    {
+        "id_cliente": 1493,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 131206
+    },
+    {
+        "id_cliente": 1494,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 644064
+    },
+    {
+        "id_cliente": 1495,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 75800
+    },
+    {
+        "id_cliente": 1496,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 959228
+    },
+    {
+        "id_cliente": 1497,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 679625
+    },
+    {
+        "id_cliente": 1498,
+        "atraso_maximo": 10,
+        "estado": "Al dia",
+        "limite_actual": 500051
+    },
+    {
+        "id_cliente": 1499,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 270930
+    },
+    {
+        "id_cliente": 1500,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 391027
+    },
+    {
+        "id_cliente": 1501,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 702269
+    },
+    {
+        "id_cliente": 1502,
+        "atraso_maximo": 104,
+        "estado": "Judicial",
+        "limite_actual": 815896
+    },
+    {
+        "id_cliente": 1503,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 443125
+    },
+    {
+        "id_cliente": 1504,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 34453
+    },
+    {
+        "id_cliente": 1505,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 471255
+    },
+    {
+        "id_cliente": 1506,
+        "atraso_maximo": 12,
+        "estado": "Al dia",
+        "limite_actual": 461630
+    },
+    {
+        "id_cliente": 1507,
+        "atraso_maximo": 115,
+        "estado": "Judicial",
+        "limite_actual": 479133
+    },
+    {
+        "id_cliente": 1508,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 934663
+    },
+    {
+        "id_cliente": 1509,
+        "atraso_maximo": 84,
+        "estado": "Mora",
+        "limite_actual": 521630
+    },
+    {
+        "id_cliente": 1510,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 80571
+    },
+    {
+        "id_cliente": 1511,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 203263
+    },
+    {
+        "id_cliente": 1512,
+        "atraso_maximo": 51,
+        "estado": "Mora",
+        "limite_actual": 528743
+    },
+    {
+        "id_cliente": 1513,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 266889
+    },
+    {
+        "id_cliente": 1514,
+        "atraso_maximo": 0,
+        "estado": "Al dia",
+        "limite_actual": 812365
+    },
+    {
+        "id_cliente": 1515,
+        "atraso_maximo": 119,
+        "estado": "Judicial",
+        "limite_actual": 619211
+    },
+    {
+        "id_cliente": 1516,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 345398
+    },
+    {
+        "id_cliente": 1517,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 573714
+    },
+    {
+        "id_cliente": 1518,
+        "atraso_maximo": 84,
+        "estado": "Mora",
+        "limite_actual": 92149
+    },
+    {
+        "id_cliente": 1519,
+        "atraso_maximo": 55,
+        "estado": "Mora",
+        "limite_actual": 344141
+    },
+    {
+        "id_cliente": 1520,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 145076
+    },
+    {
+        "id_cliente": 1521,
+        "atraso_maximo": 84,
+        "estado": "Mora",
+        "limite_actual": 243965
+    },
+    {
+        "id_cliente": 1522,
+        "atraso_maximo": 10,
+        "estado": "Al dia",
+        "limite_actual": 811728
+    },
+    {
+        "id_cliente": 1523,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 267929
+    },
+    {
+        "id_cliente": 1524,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 106200
+    },
+    {
+        "id_cliente": 1525,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 625166
+    },
+    {
+        "id_cliente": 1526,
+        "atraso_maximo": 22,
+        "estado": "Al dia",
+        "limite_actual": 920527
+    },
+    {
+        "id_cliente": 1527,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 961684
+    },
+    {
+        "id_cliente": 1528,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 609160
+    },
+    {
+        "id_cliente": 1529,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 382237
+    },
+    {
+        "id_cliente": 1530,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 140338
+    },
+    {
+        "id_cliente": 1531,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 855422
+    },
+    {
+        "id_cliente": 1532,
+        "atraso_maximo": 35,
+        "estado": "Mora",
+        "limite_actual": 679270
+    },
+    {
+        "id_cliente": 1533,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 577610
+    },
+    {
+        "id_cliente": 1534,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 538010
+    },
+    {
+        "id_cliente": 1535,
+        "atraso_maximo": 90,
+        "estado": "Judicial",
+        "limite_actual": 375129
+    },
+    {
+        "id_cliente": 1536,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 875632
+    },
+    {
+        "id_cliente": 1537,
+        "atraso_maximo": 100,
+        "estado": "Judicial",
+        "limite_actual": 279968
+    },
+    {
+        "id_cliente": 1538,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 340419
+    },
+    {
+        "id_cliente": 1539,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 617421
+    },
+    {
+        "id_cliente": 1540,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 979756
+    },
+    {
+        "id_cliente": 1541,
+        "atraso_maximo": 84,
+        "estado": "Mora",
+        "limite_actual": 834667
+    },
+    {
+        "id_cliente": 1542,
+        "atraso_maximo": 109,
+        "estado": "Judicial",
+        "limite_actual": 958676
+    },
+    {
+        "id_cliente": 1543,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 442813
+    },
+    {
+        "id_cliente": 1544,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 52024
+    },
+    {
+        "id_cliente": 1545,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 81908
+    },
+    {
+        "id_cliente": 1546,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 561935
+    },
+    {
+        "id_cliente": 1547,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 429481
+    },
+    {
+        "id_cliente": 1548,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 456078
+    },
+    {
+        "id_cliente": 1549,
+        "atraso_maximo": 7,
+        "estado": "Al dia",
+        "limite_actual": 265775
+    },
+    {
+        "id_cliente": 1550,
+        "atraso_maximo": 6,
+        "estado": "Al dia",
+        "limite_actual": 557813
+    },
+    {
+        "id_cliente": 1551,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 961637
+    },
+    {
+        "id_cliente": 1552,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 879555
+    },
+    {
+        "id_cliente": 1553,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 532058
+    },
+    {
+        "id_cliente": 1554,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 608796
+    },
+    {
+        "id_cliente": 1555,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 343898
+    },
+    {
+        "id_cliente": 1556,
+        "atraso_maximo": 89,
+        "estado": "Mora",
+        "limite_actual": 964097
+    },
+    {
+        "id_cliente": 1557,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 952030
+    },
+    {
+        "id_cliente": 1558,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 431039
+    },
+    {
+        "id_cliente": 1559,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 240732
+    },
+    {
+        "id_cliente": 1560,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 679064
+    },
+    {
+        "id_cliente": 1561,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 577118
+    },
+    {
+        "id_cliente": 1562,
+        "atraso_maximo": 101,
+        "estado": "Judicial",
+        "limite_actual": 246857
+    },
+    {
+        "id_cliente": 1563,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 809887
+    },
+    {
+        "id_cliente": 1564,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 380912
+    },
+    {
+        "id_cliente": 1565,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 396606
+    },
+    {
+        "id_cliente": 1566,
+        "atraso_maximo": 4,
+        "estado": "Al dia",
+        "limite_actual": 207010
+    },
+    {
+        "id_cliente": 1567,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 379520
+    },
+    {
+        "id_cliente": 1568,
+        "atraso_maximo": 101,
+        "estado": "Judicial",
+        "limite_actual": 601147
+    },
+    {
+        "id_cliente": 1569,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 381233
+    },
+    {
+        "id_cliente": 1570,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 951412
+    },
+    {
+        "id_cliente": 1571,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 204443
+    },
+    {
+        "id_cliente": 1572,
+        "atraso_maximo": 55,
+        "estado": "Mora",
+        "limite_actual": 770466
+    },
+    {
+        "id_cliente": 1573,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 286143
+    },
+    {
+        "id_cliente": 1574,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 289134
+    },
+    {
+        "id_cliente": 1575,
+        "atraso_maximo": 60,
+        "estado": "Mora",
+        "limite_actual": 191881
+    },
+    {
+        "id_cliente": 1576,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 591013
+    },
+    {
+        "id_cliente": 1577,
+        "atraso_maximo": 58,
+        "estado": "Mora",
+        "limite_actual": 284610
+    },
+    {
+        "id_cliente": 1578,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 281613
+    },
+    {
+        "id_cliente": 1579,
+        "atraso_maximo": 54,
+        "estado": "Mora",
+        "limite_actual": 118354
+    },
+    {
+        "id_cliente": 1580,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 138039
+    },
+    {
+        "id_cliente": 1581,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 328750
+    },
+    {
+        "id_cliente": 1582,
+        "atraso_maximo": 10,
+        "estado": "Al dia",
+        "limite_actual": 419184
+    },
+    {
+        "id_cliente": 1583,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 436001
+    },
+    {
+        "id_cliente": 1584,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 721402
+    },
+    {
+        "id_cliente": 1585,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 831734
+    },
+    {
+        "id_cliente": 1586,
+        "atraso_maximo": 109,
+        "estado": "Judicial",
+        "limite_actual": 655586
+    },
+    {
+        "id_cliente": 1587,
+        "atraso_maximo": 115,
+        "estado": "Judicial",
+        "limite_actual": 303250
+    },
+    {
+        "id_cliente": 1588,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 864855
+    },
+    {
+        "id_cliente": 1589,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 142560
+    },
+    {
+        "id_cliente": 1590,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 410519
+    },
+    {
+        "id_cliente": 1591,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 92805
+    },
+    {
+        "id_cliente": 1592,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 428688
+    },
+    {
+        "id_cliente": 1593,
+        "atraso_maximo": 44,
+        "estado": "Mora",
+        "limite_actual": 909547
+    },
+    {
+        "id_cliente": 1594,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 240236
+    },
+    {
+        "id_cliente": 1595,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 524195
+    },
+    {
+        "id_cliente": 1596,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 298534
+    },
+    {
+        "id_cliente": 1597,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 720090
+    },
+    {
+        "id_cliente": 1598,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 991569
+    },
+    {
+        "id_cliente": 1599,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 731017
+    },
+    {
+        "id_cliente": 1600,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 675775
+    },
+    {
+        "id_cliente": 1601,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 383889
+    },
+    {
+        "id_cliente": 1602,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 520489
+    },
+    {
+        "id_cliente": 1603,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 263260
+    },
+    {
+        "id_cliente": 1604,
+        "atraso_maximo": 44,
+        "estado": "Mora",
+        "limite_actual": 320027
+    },
+    {
+        "id_cliente": 1605,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 211592
+    },
+    {
+        "id_cliente": 1606,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 316523
+    },
+    {
+        "id_cliente": 1607,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 339877
+    },
+    {
+        "id_cliente": 1608,
+        "atraso_maximo": 107,
+        "estado": "Judicial",
+        "limite_actual": 330829
+    },
+    {
+        "id_cliente": 1609,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 947572
+    },
+    {
+        "id_cliente": 1610,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 432303
+    },
+    {
+        "id_cliente": 1611,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 373928
+    },
+    {
+        "id_cliente": 1612,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 711634
+    },
+    {
+        "id_cliente": 1613,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 371530
+    },
+    {
+        "id_cliente": 1614,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 999887
+    },
+    {
+        "id_cliente": 1615,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 537040
+    },
+    {
+        "id_cliente": 1616,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 955759
+    },
+    {
+        "id_cliente": 1617,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 590935
+    },
+    {
+        "id_cliente": 1618,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 990895
+    },
+    {
+        "id_cliente": 1619,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 706929
+    },
+    {
+        "id_cliente": 1620,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 980040
+    },
+    {
+        "id_cliente": 1621,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 184349
+    },
+    {
+        "id_cliente": 1622,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 741640
+    },
+    {
+        "id_cliente": 1623,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 86410
+    },
+    {
+        "id_cliente": 1624,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 978394
+    },
+    {
+        "id_cliente": 1625,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 162467
+    },
+    {
+        "id_cliente": 1626,
+        "atraso_maximo": 58,
+        "estado": "Mora",
+        "limite_actual": 396522
+    },
+    {
+        "id_cliente": 1627,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 918981
+    },
+    {
+        "id_cliente": 1628,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 506961
+    },
+    {
+        "id_cliente": 1629,
+        "atraso_maximo": 6,
+        "estado": "Al dia",
+        "limite_actual": 161765
+    },
+    {
+        "id_cliente": 1630,
+        "atraso_maximo": 51,
+        "estado": "Mora",
+        "limite_actual": 648693
+    },
+    {
+        "id_cliente": 1631,
+        "atraso_maximo": 24,
+        "estado": "Al dia",
+        "limite_actual": 109250
+    },
+    {
+        "id_cliente": 1632,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 94801
+    },
+    {
+        "id_cliente": 1633,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 883333
+    },
+    {
+        "id_cliente": 1634,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 171728
+    },
+    {
+        "id_cliente": 1635,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 347836
+    },
+    {
+        "id_cliente": 1636,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 410928
+    },
+    {
+        "id_cliente": 1637,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 52187
+    },
+    {
+        "id_cliente": 1638,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 266284
+    },
+    {
+        "id_cliente": 1639,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 121492
+    },
+    {
+        "id_cliente": 1640,
+        "atraso_maximo": 71,
+        "estado": "Mora",
+        "limite_actual": 690492
+    },
+    {
+        "id_cliente": 1641,
+        "atraso_maximo": 43,
+        "estado": "Mora",
+        "limite_actual": 844325
+    },
+    {
+        "id_cliente": 1642,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 973484
+    },
+    {
+        "id_cliente": 1643,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 600279
+    },
+    {
+        "id_cliente": 1644,
+        "atraso_maximo": 114,
+        "estado": "Judicial",
+        "limite_actual": 317418
+    },
+    {
+        "id_cliente": 1645,
+        "atraso_maximo": 115,
+        "estado": "Judicial",
+        "limite_actual": 663140
+    },
+    {
+        "id_cliente": 1646,
+        "atraso_maximo": 55,
+        "estado": "Mora",
+        "limite_actual": 472336
+    },
+    {
+        "id_cliente": 1647,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 919202
+    },
+    {
+        "id_cliente": 1648,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 820088
+    },
+    {
+        "id_cliente": 1649,
+        "atraso_maximo": 24,
+        "estado": "Al dia",
+        "limite_actual": 771313
+    },
+    {
+        "id_cliente": 1650,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 51023
+    },
+    {
+        "id_cliente": 1651,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 459463
+    },
+    {
+        "id_cliente": 1652,
+        "atraso_maximo": 24,
+        "estado": "Al dia",
+        "limite_actual": 352787
+    },
+    {
+        "id_cliente": 1653,
+        "atraso_maximo": 32,
+        "estado": "Mora",
+        "limite_actual": 446615
+    },
+    {
+        "id_cliente": 1654,
+        "atraso_maximo": 119,
+        "estado": "Judicial",
+        "limite_actual": 374211
+    },
+    {
+        "id_cliente": 1655,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 651498
+    },
+    {
+        "id_cliente": 1656,
+        "atraso_maximo": 109,
+        "estado": "Judicial",
+        "limite_actual": 97752
+    },
+    {
+        "id_cliente": 1657,
+        "atraso_maximo": 3,
+        "estado": "Al dia",
+        "limite_actual": 168051
+    },
+    {
+        "id_cliente": 1658,
+        "atraso_maximo": 92,
+        "estado": "Judicial",
+        "limite_actual": 518557
+    },
+    {
+        "id_cliente": 1659,
+        "atraso_maximo": 7,
+        "estado": "Al dia",
+        "limite_actual": 755600
+    },
+    {
+        "id_cliente": 1660,
+        "atraso_maximo": 35,
+        "estado": "Mora",
+        "limite_actual": 919085
+    },
+    {
+        "id_cliente": 1661,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 810289
+    },
+    {
+        "id_cliente": 1662,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 446767
+    },
+    {
+        "id_cliente": 1663,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 745701
+    },
+    {
+        "id_cliente": 1664,
+        "atraso_maximo": 104,
+        "estado": "Judicial",
+        "limite_actual": 702405
+    },
+    {
+        "id_cliente": 1665,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 445696
+    },
+    {
+        "id_cliente": 1666,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 932258
+    },
+    {
+        "id_cliente": 1667,
+        "atraso_maximo": 101,
+        "estado": "Judicial",
+        "limite_actual": 347668
+    },
+    {
+        "id_cliente": 1668,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 69880
+    },
+    {
+        "id_cliente": 1669,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 100049
+    },
+    {
+        "id_cliente": 1670,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 126872
+    },
+    {
+        "id_cliente": 1671,
+        "atraso_maximo": 24,
+        "estado": "Al dia",
+        "limite_actual": 110600
+    },
+    {
+        "id_cliente": 1672,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 899832
+    },
+    {
+        "id_cliente": 1673,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 97585
+    },
+    {
+        "id_cliente": 1674,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 819614
+    },
+    {
+        "id_cliente": 1675,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 997326
+    },
+    {
+        "id_cliente": 1676,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 531114
+    },
+    {
+        "id_cliente": 1677,
+        "atraso_maximo": 67,
+        "estado": "Mora",
+        "limite_actual": 491888
+    },
+    {
+        "id_cliente": 1678,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 499533
+    },
+    {
+        "id_cliente": 1679,
+        "atraso_maximo": 32,
+        "estado": "Mora",
+        "limite_actual": 57309
+    },
+    {
+        "id_cliente": 1680,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 51417
+    },
+    {
+        "id_cliente": 1681,
+        "atraso_maximo": 109,
+        "estado": "Judicial",
+        "limite_actual": 880384
+    },
+    {
+        "id_cliente": 1682,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 909879
+    },
+    {
+        "id_cliente": 1683,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 580060
+    },
+    {
+        "id_cliente": 1684,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 849544
+    },
+    {
+        "id_cliente": 1685,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 129171
+    },
+    {
+        "id_cliente": 1686,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 912666
+    },
+    {
+        "id_cliente": 1687,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 864212
+    },
+    {
+        "id_cliente": 1688,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 400396
+    },
+    {
+        "id_cliente": 1689,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 248459
+    },
+    {
+        "id_cliente": 1690,
+        "atraso_maximo": 4,
+        "estado": "Al dia",
+        "limite_actual": 471357
+    },
+    {
+        "id_cliente": 1691,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 555850
+    },
+    {
+        "id_cliente": 1692,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 948723
+    },
+    {
+        "id_cliente": 1693,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 521078
+    },
+    {
+        "id_cliente": 1694,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 554542
+    },
+    {
+        "id_cliente": 1695,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 517736
+    },
+    {
+        "id_cliente": 1696,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 960691
+    },
+    {
+        "id_cliente": 1697,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 178903
+    },
+    {
+        "id_cliente": 1698,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 477518
+    },
+    {
+        "id_cliente": 1699,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 408158
+    },
+    {
+        "id_cliente": 1700,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 99097
+    },
+    {
+        "id_cliente": 1701,
+        "atraso_maximo": 73,
+        "estado": "Mora",
+        "limite_actual": 291379
+    },
+    {
+        "id_cliente": 1702,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 906750
+    },
+    {
+        "id_cliente": 1703,
+        "atraso_maximo": 7,
+        "estado": "Al dia",
+        "limite_actual": 175553
+    },
+    {
+        "id_cliente": 1704,
+        "atraso_maximo": 85,
+        "estado": "Mora",
+        "limite_actual": 914857
+    },
+    {
+        "id_cliente": 1705,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 213628
+    },
+    {
+        "id_cliente": 1706,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 888036
+    },
+    {
+        "id_cliente": 1707,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 734492
+    },
+    {
+        "id_cliente": 1708,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 655907
+    },
+    {
+        "id_cliente": 1709,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 479713
+    },
+    {
+        "id_cliente": 1710,
+        "atraso_maximo": 31,
+        "estado": "Mora",
+        "limite_actual": 261149
+    },
+    {
+        "id_cliente": 1711,
+        "atraso_maximo": 12,
+        "estado": "Al dia",
+        "limite_actual": 773142
+    },
+    {
+        "id_cliente": 1712,
+        "atraso_maximo": 78,
+        "estado": "Mora",
+        "limite_actual": 776429
+    },
+    {
+        "id_cliente": 1713,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 87530
+    },
+    {
+        "id_cliente": 1714,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 132282
+    },
+    {
+        "id_cliente": 1715,
+        "atraso_maximo": 58,
+        "estado": "Mora",
+        "limite_actual": 411595
+    },
+    {
+        "id_cliente": 1716,
+        "atraso_maximo": 22,
+        "estado": "Al dia",
+        "limite_actual": 756321
+    },
+    {
+        "id_cliente": 1717,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 927261
+    },
+    {
+        "id_cliente": 1718,
+        "atraso_maximo": 8,
+        "estado": "Al dia",
+        "limite_actual": 448941
+    },
+    {
+        "id_cliente": 1719,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 381022
+    },
+    {
+        "id_cliente": 1720,
+        "atraso_maximo": 116,
+        "estado": "Judicial",
+        "limite_actual": 648739
+    },
+    {
+        "id_cliente": 1721,
+        "atraso_maximo": 13,
+        "estado": "Al dia",
+        "limite_actual": 597917
+    },
+    {
+        "id_cliente": 1722,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 639191
+    },
+    {
+        "id_cliente": 1723,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 210085
+    },
+    {
+        "id_cliente": 1724,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 580970
+    },
+    {
+        "id_cliente": 1725,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 468998
+    },
+    {
+        "id_cliente": 1726,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 489902
+    },
+    {
+        "id_cliente": 1727,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 715774
+    },
+    {
+        "id_cliente": 1728,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 876892
+    },
+    {
+        "id_cliente": 1729,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 560349
+    },
+    {
+        "id_cliente": 1730,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 881534
+    },
+    {
+        "id_cliente": 1731,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 847930
+    },
+    {
+        "id_cliente": 1732,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 167163
+    },
+    {
+        "id_cliente": 1733,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 724865
+    },
+    {
+        "id_cliente": 1734,
+        "atraso_maximo": 89,
+        "estado": "Mora",
+        "limite_actual": 226421
+    },
+    {
+        "id_cliente": 1735,
+        "atraso_maximo": 100,
+        "estado": "Judicial",
+        "limite_actual": 22116
+    },
+    {
+        "id_cliente": 1736,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 939631
+    },
+    {
+        "id_cliente": 1737,
+        "atraso_maximo": 12,
+        "estado": "Al dia",
+        "limite_actual": 850340
+    },
+    {
+        "id_cliente": 1738,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 703589
+    },
+    {
+        "id_cliente": 1739,
+        "atraso_maximo": 84,
+        "estado": "Mora",
+        "limite_actual": 61503
+    },
+    {
+        "id_cliente": 1740,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 611544
+    },
+    {
+        "id_cliente": 1741,
+        "atraso_maximo": 79,
+        "estado": "Mora",
+        "limite_actual": 707434
+    },
+    {
+        "id_cliente": 1742,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 916706
+    },
+    {
+        "id_cliente": 1743,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 383234
+    },
+    {
+        "id_cliente": 1744,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 808259
+    },
+    {
+        "id_cliente": 1745,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 220600
+    },
+    {
+        "id_cliente": 1746,
+        "atraso_maximo": 79,
+        "estado": "Mora",
+        "limite_actual": 752051
+    },
+    {
+        "id_cliente": 1747,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 987886
+    },
+    {
+        "id_cliente": 1748,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 624319
+    },
+    {
+        "id_cliente": 1749,
+        "atraso_maximo": 101,
+        "estado": "Judicial",
+        "limite_actual": 594800
+    },
+    {
+        "id_cliente": 1750,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 356785
+    },
+    {
+        "id_cliente": 1751,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 551969
+    },
+    {
+        "id_cliente": 1752,
+        "atraso_maximo": 53,
+        "estado": "Mora",
+        "limite_actual": 148361
+    },
+    {
+        "id_cliente": 1753,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 215164
+    },
+    {
+        "id_cliente": 1754,
+        "atraso_maximo": 26,
+        "estado": "Al dia",
+        "limite_actual": 229599
+    },
+    {
+        "id_cliente": 1755,
+        "atraso_maximo": 79,
+        "estado": "Mora",
+        "limite_actual": 848359
+    },
+    {
+        "id_cliente": 1756,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 852585
+    },
+    {
+        "id_cliente": 1757,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 466260
+    },
+    {
+        "id_cliente": 1758,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 106543
+    },
+    {
+        "id_cliente": 1759,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 353601
+    },
+    {
+        "id_cliente": 1760,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 320897
+    },
+    {
+        "id_cliente": 1761,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 144368
+    },
+    {
+        "id_cliente": 1762,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 719515
+    },
+    {
+        "id_cliente": 1763,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 869766
+    },
+    {
+        "id_cliente": 1764,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 21102
+    },
+    {
+        "id_cliente": 1765,
+        "atraso_maximo": 49,
+        "estado": "Mora",
+        "limite_actual": 677102
+    },
+    {
+        "id_cliente": 1766,
+        "atraso_maximo": 79,
+        "estado": "Mora",
+        "limite_actual": 68777
+    },
+    {
+        "id_cliente": 1767,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 403075
+    },
+    {
+        "id_cliente": 1768,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 889888
+    },
+    {
+        "id_cliente": 1769,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 693275
+    },
+    {
+        "id_cliente": 1770,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 255749
+    },
+    {
+        "id_cliente": 1771,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 847447
+    },
+    {
+        "id_cliente": 1772,
+        "atraso_maximo": 89,
+        "estado": "Mora",
+        "limite_actual": 393948
+    },
+    {
+        "id_cliente": 1773,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 128868
+    },
+    {
+        "id_cliente": 1774,
+        "atraso_maximo": 25,
+        "estado": "Al dia",
+        "limite_actual": 477983
+    },
+    {
+        "id_cliente": 1775,
+        "atraso_maximo": 19,
+        "estado": "Al dia",
+        "limite_actual": 248179
+    },
+    {
+        "id_cliente": 1776,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 746349
+    },
+    {
+        "id_cliente": 1777,
+        "atraso_maximo": 106,
+        "estado": "Judicial",
+        "limite_actual": 123811
+    },
+    {
+        "id_cliente": 1778,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 53424
+    },
+    {
+        "id_cliente": 1779,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 223669
+    },
+    {
+        "id_cliente": 1780,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 302835
+    },
+    {
+        "id_cliente": 1781,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 380065
+    },
+    {
+        "id_cliente": 1782,
+        "atraso_maximo": 0,
+        "estado": "Al dia",
+        "limite_actual": 331140
+    },
+    {
+        "id_cliente": 1783,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 631583
+    },
+    {
+        "id_cliente": 1784,
+        "atraso_maximo": 103,
+        "estado": "Judicial",
+        "limite_actual": 478246
+    },
+    {
+        "id_cliente": 1785,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 899821
+    },
+    {
+        "id_cliente": 1786,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 690443
+    },
+    {
+        "id_cliente": 1787,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 81575
+    },
+    {
+        "id_cliente": 1788,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 272943
+    },
+    {
+        "id_cliente": 1789,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 815813
+    },
+    {
+        "id_cliente": 1790,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 443369
+    },
+    {
+        "id_cliente": 1791,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 792155
+    },
+    {
+        "id_cliente": 1792,
+        "atraso_maximo": 101,
+        "estado": "Judicial",
+        "limite_actual": 715938
+    },
+    {
+        "id_cliente": 1793,
+        "atraso_maximo": 103,
+        "estado": "Judicial",
+        "limite_actual": 380446
+    },
+    {
+        "id_cliente": 1794,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 350769
+    },
+    {
+        "id_cliente": 1795,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 280186
+    },
+    {
+        "id_cliente": 1796,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 927173
+    },
+    {
+        "id_cliente": 1797,
+        "atraso_maximo": 47,
+        "estado": "Mora",
+        "limite_actual": 907153
+    },
+    {
+        "id_cliente": 1798,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 692090
+    },
+    {
+        "id_cliente": 1799,
+        "atraso_maximo": 43,
+        "estado": "Mora",
+        "limite_actual": 103159
+    },
+    {
+        "id_cliente": 1800,
+        "atraso_maximo": 44,
+        "estado": "Mora",
+        "limite_actual": 428629
+    },
+    {
+        "id_cliente": 1801,
+        "atraso_maximo": 86,
+        "estado": "Mora",
+        "limite_actual": 612552
+    },
+    {
+        "id_cliente": 1802,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 345580
+    },
+    {
+        "id_cliente": 1803,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 371910
+    },
+    {
+        "id_cliente": 1804,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 48188
+    },
+    {
+        "id_cliente": 1805,
+        "atraso_maximo": 75,
+        "estado": "Mora",
+        "limite_actual": 358799
+    },
+    {
+        "id_cliente": 1806,
+        "atraso_maximo": 31,
+        "estado": "Mora",
+        "limite_actual": 183987
+    },
+    {
+        "id_cliente": 1807,
+        "atraso_maximo": 58,
+        "estado": "Mora",
+        "limite_actual": 334974
+    },
+    {
+        "id_cliente": 1808,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 966057
+    },
+    {
+        "id_cliente": 1809,
+        "atraso_maximo": 74,
+        "estado": "Mora",
+        "limite_actual": 962982
+    },
+    {
+        "id_cliente": 1810,
+        "atraso_maximo": 14,
+        "estado": "Al dia",
+        "limite_actual": 124576
+    },
+    {
+        "id_cliente": 1811,
+        "atraso_maximo": 25,
+        "estado": "Al dia",
+        "limite_actual": 51451
+    },
+    {
+        "id_cliente": 1812,
+        "atraso_maximo": 59,
+        "estado": "Mora",
+        "limite_actual": 988439
+    },
+    {
+        "id_cliente": 1813,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 864438
+    },
+    {
+        "id_cliente": 1814,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 892528
+    },
+    {
+        "id_cliente": 1815,
+        "atraso_maximo": 96,
+        "estado": "Judicial",
+        "limite_actual": 89689
+    },
+    {
+        "id_cliente": 1816,
+        "atraso_maximo": 20,
+        "estado": "Al dia",
+        "limite_actual": 292523
+    },
+    {
+        "id_cliente": 1817,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 128517
+    },
+    {
+        "id_cliente": 1818,
+        "atraso_maximo": 108,
+        "estado": "Judicial",
+        "limite_actual": 195374
+    },
+    {
+        "id_cliente": 1819,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 798844
+    },
+    {
+        "id_cliente": 1820,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 240518
+    },
+    {
+        "id_cliente": 1821,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 485178
+    },
+    {
+        "id_cliente": 1822,
+        "atraso_maximo": 119,
+        "estado": "Judicial",
+        "limite_actual": 701451
+    },
+    {
+        "id_cliente": 1823,
+        "atraso_maximo": 90,
+        "estado": "Judicial",
+        "limite_actual": 109067
+    },
+    {
+        "id_cliente": 1824,
+        "atraso_maximo": 60,
+        "estado": "Mora",
+        "limite_actual": 303227
+    },
+    {
+        "id_cliente": 1825,
+        "atraso_maximo": 43,
+        "estado": "Mora",
+        "limite_actual": 588534
+    },
+    {
+        "id_cliente": 1826,
+        "atraso_maximo": 40,
+        "estado": "Mora",
+        "limite_actual": 163757
+    },
+    {
+        "id_cliente": 1827,
+        "atraso_maximo": 0,
+        "estado": "Al dia",
+        "limite_actual": 533861
+    },
+    {
+        "id_cliente": 1828,
+        "atraso_maximo": 82,
+        "estado": "Mora",
+        "limite_actual": 542512
+    },
+    {
+        "id_cliente": 1829,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 800691
+    },
+    {
+        "id_cliente": 1830,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 813641
+    },
+    {
+        "id_cliente": 1831,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 619667
+    },
+    {
+        "id_cliente": 1832,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 42809
+    },
+    {
+        "id_cliente": 1833,
+        "atraso_maximo": 53,
+        "estado": "Mora",
+        "limite_actual": 788380
+    },
+    {
+        "id_cliente": 1834,
+        "atraso_maximo": 119,
+        "estado": "Judicial",
+        "limite_actual": 90305
+    },
+    {
+        "id_cliente": 1835,
+        "atraso_maximo": 77,
+        "estado": "Mora",
+        "limite_actual": 741836
+    },
+    {
+        "id_cliente": 1836,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 168047
+    },
+    {
+        "id_cliente": 1837,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 365670
+    },
+    {
+        "id_cliente": 1838,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 595689
+    },
+    {
+        "id_cliente": 1839,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 249284
+    },
+    {
+        "id_cliente": 1840,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 607111
+    },
+    {
+        "id_cliente": 1841,
+        "atraso_maximo": 51,
+        "estado": "Mora",
+        "limite_actual": 865271
+    },
+    {
+        "id_cliente": 1842,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 976341
+    },
+    {
+        "id_cliente": 1843,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 786065
+    },
+    {
+        "id_cliente": 1844,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 766867
+    },
+    {
+        "id_cliente": 1845,
+        "atraso_maximo": 49,
+        "estado": "Mora",
+        "limite_actual": 30767
+    },
+    {
+        "id_cliente": 1846,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 648679
+    },
+    {
+        "id_cliente": 1847,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 423677
+    },
+    {
+        "id_cliente": 1848,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 179237
+    },
+    {
+        "id_cliente": 1849,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 758110
+    },
+    {
+        "id_cliente": 1850,
+        "atraso_maximo": 31,
+        "estado": "Mora",
+        "limite_actual": 303460
+    },
+    {
+        "id_cliente": 1851,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 577029
+    },
+    {
+        "id_cliente": 1852,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 962398
+    },
+    {
+        "id_cliente": 1853,
+        "atraso_maximo": 18,
+        "estado": "Al dia",
+        "limite_actual": 439530
+    },
+    {
+        "id_cliente": 1854,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 396319
+    },
+    {
+        "id_cliente": 1855,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 870361
+    },
+    {
+        "id_cliente": 1856,
+        "atraso_maximo": 83,
+        "estado": "Mora",
+        "limite_actual": 726731
+    },
+    {
+        "id_cliente": 1857,
+        "atraso_maximo": 13,
+        "estado": "Al dia",
+        "limite_actual": 640783
+    },
+    {
+        "id_cliente": 1858,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 379182
+    },
+    {
+        "id_cliente": 1859,
+        "atraso_maximo": 103,
+        "estado": "Judicial",
+        "limite_actual": 755553
+    },
+    {
+        "id_cliente": 1860,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 946955
+    },
+    {
+        "id_cliente": 1861,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 156039
+    },
+    {
+        "id_cliente": 1862,
+        "atraso_maximo": 43,
+        "estado": "Mora",
+        "limite_actual": 157008
+    },
+    {
+        "id_cliente": 1863,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 444970
+    },
+    {
+        "id_cliente": 1864,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 335053
+    },
+    {
+        "id_cliente": 1865,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 989186
+    },
+    {
+        "id_cliente": 1866,
+        "atraso_maximo": 66,
+        "estado": "Mora",
+        "limite_actual": 705442
+    },
+    {
+        "id_cliente": 1867,
+        "atraso_maximo": 84,
+        "estado": "Mora",
+        "limite_actual": 532516
+    },
+    {
+        "id_cliente": 1868,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 358374
+    },
+    {
+        "id_cliente": 1869,
+        "atraso_maximo": 99,
+        "estado": "Judicial",
+        "limite_actual": 668063
+    },
+    {
+        "id_cliente": 1870,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 866354
+    },
+    {
+        "id_cliente": 1871,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 185939
+    },
+    {
+        "id_cliente": 1872,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 273119
+    },
+    {
+        "id_cliente": 1873,
+        "atraso_maximo": 95,
+        "estado": "Judicial",
+        "limite_actual": 813934
+    },
+    {
+        "id_cliente": 1874,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 884487
+    },
+    {
+        "id_cliente": 1875,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 375873
+    },
+    {
+        "id_cliente": 1876,
+        "atraso_maximo": 117,
+        "estado": "Judicial",
+        "limite_actual": 211369
+    },
+    {
+        "id_cliente": 1877,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 712671
+    },
+    {
+        "id_cliente": 1878,
+        "atraso_maximo": 53,
+        "estado": "Mora",
+        "limite_actual": 631988
+    },
+    {
+        "id_cliente": 1879,
+        "atraso_maximo": 60,
+        "estado": "Mora",
+        "limite_actual": 445941
+    },
+    {
+        "id_cliente": 1880,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 610039
+    },
+    {
+        "id_cliente": 1881,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 706214
+    },
+    {
+        "id_cliente": 1882,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 294679
+    },
+    {
+        "id_cliente": 1883,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 458262
+    },
+    {
+        "id_cliente": 1884,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 627578
+    },
+    {
+        "id_cliente": 1885,
+        "atraso_maximo": 17,
+        "estado": "Al dia",
+        "limite_actual": 670321
+    },
+    {
+        "id_cliente": 1886,
+        "atraso_maximo": 64,
+        "estado": "Mora",
+        "limite_actual": 321944
+    },
+    {
+        "id_cliente": 1887,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 141094
+    },
+    {
+        "id_cliente": 1888,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 300636
+    },
+    {
+        "id_cliente": 1889,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 277354
+    },
+    {
+        "id_cliente": 1890,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 266450
+    },
+    {
+        "id_cliente": 1891,
+        "atraso_maximo": 52,
+        "estado": "Mora",
+        "limite_actual": 577005
+    },
+    {
+        "id_cliente": 1892,
+        "atraso_maximo": 49,
+        "estado": "Mora",
+        "limite_actual": 663115
+    },
+    {
+        "id_cliente": 1893,
+        "atraso_maximo": 50,
+        "estado": "Mora",
+        "limite_actual": 296708
+    },
+    {
+        "id_cliente": 1894,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 961137
+    },
+    {
+        "id_cliente": 1895,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 38143
+    },
+    {
+        "id_cliente": 1896,
+        "atraso_maximo": 84,
+        "estado": "Mora",
+        "limite_actual": 381872
+    },
+    {
+        "id_cliente": 1897,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 920213
+    },
+    {
+        "id_cliente": 1898,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 579165
+    },
+    {
+        "id_cliente": 1899,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 656583
+    },
+    {
+        "id_cliente": 1900,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 148260
+    },
+    {
+        "id_cliente": 1901,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 882989
+    },
+    {
+        "id_cliente": 1902,
+        "atraso_maximo": 61,
+        "estado": "Mora",
+        "limite_actual": 189575
+    },
+    {
+        "id_cliente": 1903,
+        "atraso_maximo": 31,
+        "estado": "Mora",
+        "limite_actual": 360728
+    },
+    {
+        "id_cliente": 1904,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 136639
+    },
+    {
+        "id_cliente": 1905,
+        "atraso_maximo": 65,
+        "estado": "Mora",
+        "limite_actual": 832256
+    },
+    {
+        "id_cliente": 1906,
+        "atraso_maximo": 68,
+        "estado": "Mora",
+        "limite_actual": 607636
+    },
+    {
+        "id_cliente": 1907,
+        "atraso_maximo": 57,
+        "estado": "Mora",
+        "limite_actual": 103854
+    },
+    {
+        "id_cliente": 1908,
+        "atraso_maximo": 22,
+        "estado": "Al dia",
+        "limite_actual": 223977
+    },
+    {
+        "id_cliente": 1909,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 575894
+    },
+    {
+        "id_cliente": 1910,
+        "atraso_maximo": 51,
+        "estado": "Mora",
+        "limite_actual": 747325
+    },
+    {
+        "id_cliente": 1911,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 245176
+    },
+    {
+        "id_cliente": 1912,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 646358
+    },
+    {
+        "id_cliente": 1913,
+        "atraso_maximo": 63,
+        "estado": "Mora",
+        "limite_actual": 97992
+    },
+    {
+        "id_cliente": 1914,
+        "atraso_maximo": 56,
+        "estado": "Mora",
+        "limite_actual": 598128
+    },
+    {
+        "id_cliente": 1915,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 535486
+    },
+    {
+        "id_cliente": 1916,
+        "atraso_maximo": 4,
+        "estado": "Al dia",
+        "limite_actual": 370404
+    },
+    {
+        "id_cliente": 1917,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 868007
+    },
+    {
+        "id_cliente": 1918,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 964059
+    },
+    {
+        "id_cliente": 1919,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 159082
+    },
+    {
+        "id_cliente": 1920,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 844264
+    },
+    {
+        "id_cliente": 1921,
+        "atraso_maximo": 105,
+        "estado": "Judicial",
+        "limite_actual": 845821
+    },
+    {
+        "id_cliente": 1922,
+        "atraso_maximo": 30,
+        "estado": "Mora",
+        "limite_actual": 46101
+    },
+    {
+        "id_cliente": 1923,
+        "atraso_maximo": 23,
+        "estado": "Al dia",
+        "limite_actual": 487199
+    },
+    {
+        "id_cliente": 1924,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 291240
+    },
+    {
+        "id_cliente": 1925,
+        "atraso_maximo": 1,
+        "estado": "Al dia",
+        "limite_actual": 615126
+    },
+    {
+        "id_cliente": 1926,
+        "atraso_maximo": 27,
+        "estado": "Al dia",
+        "limite_actual": 157559
+    },
+    {
+        "id_cliente": 1927,
+        "atraso_maximo": 32,
+        "estado": "Mora",
+        "limite_actual": 457711
+    },
+    {
+        "id_cliente": 1928,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 651145
+    },
+    {
+        "id_cliente": 1929,
+        "atraso_maximo": 104,
+        "estado": "Judicial",
+        "limite_actual": 284044
+    },
+    {
+        "id_cliente": 1930,
+        "atraso_maximo": 29,
+        "estado": "Al dia",
+        "limite_actual": 988109
+    },
+    {
+        "id_cliente": 1931,
+        "atraso_maximo": 88,
+        "estado": "Mora",
+        "limite_actual": 673353
+    },
+    {
+        "id_cliente": 1932,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 147143
+    },
+    {
+        "id_cliente": 1933,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 253297
+    },
+    {
+        "id_cliente": 1934,
+        "atraso_maximo": 109,
+        "estado": "Judicial",
+        "limite_actual": 491815
+    },
+    {
+        "id_cliente": 1935,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 149347
+    },
+    {
+        "id_cliente": 1936,
+        "atraso_maximo": 16,
+        "estado": "Al dia",
+        "limite_actual": 822078
+    },
+    {
+        "id_cliente": 1937,
+        "atraso_maximo": 112,
+        "estado": "Judicial",
+        "limite_actual": 660429
+    },
+    {
+        "id_cliente": 1938,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 583147
+    },
+    {
+        "id_cliente": 1939,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 495892
+    },
+    {
+        "id_cliente": 1940,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 183803
+    },
+    {
+        "id_cliente": 1941,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 996781
+    },
+    {
+        "id_cliente": 1942,
+        "atraso_maximo": 98,
+        "estado": "Judicial",
+        "limite_actual": 512056
+    },
+    {
+        "id_cliente": 1943,
+        "atraso_maximo": 104,
+        "estado": "Judicial",
+        "limite_actual": 846052
+    },
+    {
+        "id_cliente": 1944,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 999855
+    },
+    {
+        "id_cliente": 1945,
+        "atraso_maximo": 42,
+        "estado": "Mora",
+        "limite_actual": 599673
+    },
+    {
+        "id_cliente": 1946,
+        "atraso_maximo": 62,
+        "estado": "Mora",
+        "limite_actual": 536061
+    },
+    {
+        "id_cliente": 1947,
+        "atraso_maximo": 70,
+        "estado": "Mora",
+        "limite_actual": 745511
+    },
+    {
+        "id_cliente": 1948,
+        "atraso_maximo": 49,
+        "estado": "Mora",
+        "limite_actual": 117302
+    },
+    {
+        "id_cliente": 1949,
+        "atraso_maximo": 48,
+        "estado": "Mora",
+        "limite_actual": 114100
+    },
+    {
+        "id_cliente": 1950,
+        "atraso_maximo": 120,
+        "estado": "Judicial",
+        "limite_actual": 997379
+    },
+    {
+        "id_cliente": 1951,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 347917
+    },
+    {
+        "id_cliente": 1952,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 691434
+    },
+    {
+        "id_cliente": 1953,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 830823
+    },
+    {
+        "id_cliente": 1954,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 724356
+    },
+    {
+        "id_cliente": 1955,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 410169
+    },
+    {
+        "id_cliente": 1956,
+        "atraso_maximo": 93,
+        "estado": "Judicial",
+        "limite_actual": 480010
+    },
+    {
+        "id_cliente": 1957,
+        "atraso_maximo": 45,
+        "estado": "Mora",
+        "limite_actual": 440506
+    },
+    {
+        "id_cliente": 1958,
+        "atraso_maximo": 11,
+        "estado": "Al dia",
+        "limite_actual": 314122
+    },
+    {
+        "id_cliente": 1959,
+        "atraso_maximo": 5,
+        "estado": "Al dia",
+        "limite_actual": 478131
+    },
+    {
+        "id_cliente": 1960,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 246698
+    },
+    {
+        "id_cliente": 1961,
+        "atraso_maximo": 92,
+        "estado": "Judicial",
+        "limite_actual": 316143
+    },
+    {
+        "id_cliente": 1962,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 521272
+    },
+    {
+        "id_cliente": 1963,
+        "atraso_maximo": 81,
+        "estado": "Mora",
+        "limite_actual": 976235
+    },
+    {
+        "id_cliente": 1964,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 574816
+    },
+    {
+        "id_cliente": 1965,
+        "atraso_maximo": 69,
+        "estado": "Mora",
+        "limite_actual": 125473
+    },
+    {
+        "id_cliente": 1966,
+        "atraso_maximo": 9,
+        "estado": "Al dia",
+        "limite_actual": 584034
+    },
+    {
+        "id_cliente": 1967,
+        "atraso_maximo": 110,
+        "estado": "Judicial",
+        "limite_actual": 24581
+    },
+    {
+        "id_cliente": 1968,
+        "atraso_maximo": 21,
+        "estado": "Al dia",
+        "limite_actual": 301093
+    },
+    {
+        "id_cliente": 1969,
+        "atraso_maximo": 87,
+        "estado": "Mora",
+        "limite_actual": 887749
+    },
+    {
+        "id_cliente": 1970,
+        "atraso_maximo": 37,
+        "estado": "Mora",
+        "limite_actual": 298127
+    },
+    {
+        "id_cliente": 1971,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 963146
+    },
+    {
+        "id_cliente": 1972,
+        "atraso_maximo": 36,
+        "estado": "Mora",
+        "limite_actual": 821869
+    },
+    {
+        "id_cliente": 1973,
+        "atraso_maximo": 96,
+        "estado": "Judicial",
+        "limite_actual": 52669
+    },
+    {
+        "id_cliente": 1974,
+        "atraso_maximo": 0,
+        "estado": "Al dia",
+        "limite_actual": 143228
+    },
+    {
+        "id_cliente": 1975,
+        "atraso_maximo": 34,
+        "estado": "Mora",
+        "limite_actual": 947868
+    },
+    {
+        "id_cliente": 1976,
+        "atraso_maximo": 79,
+        "estado": "Mora",
+        "limite_actual": 203397
+    },
+    {
+        "id_cliente": 1977,
+        "atraso_maximo": 76,
+        "estado": "Mora",
+        "limite_actual": 88499
+    },
+    {
+        "id_cliente": 1978,
+        "atraso_maximo": 111,
+        "estado": "Judicial",
+        "limite_actual": 821897
+    },
+    {
+        "id_cliente": 1979,
+        "atraso_maximo": 95,
+        "estado": "Judicial",
+        "limite_actual": 471450
+    },
+    {
+        "id_cliente": 1980,
+        "atraso_maximo": 119,
+        "estado": "Judicial",
+        "limite_actual": 249107
+    },
+    {
+        "id_cliente": 1981,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 102796
+    },
+    {
+        "id_cliente": 1982,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 562669
+    },
+    {
+        "id_cliente": 1983,
+        "atraso_maximo": 97,
+        "estado": "Judicial",
+        "limite_actual": 573863
+    },
+    {
+        "id_cliente": 1984,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 48300
+    },
+    {
+        "id_cliente": 1985,
+        "atraso_maximo": 102,
+        "estado": "Judicial",
+        "limite_actual": 705462
+    },
+    {
+        "id_cliente": 1986,
+        "atraso_maximo": 113,
+        "estado": "Judicial",
+        "limite_actual": 99411
+    },
+    {
+        "id_cliente": 1987,
+        "atraso_maximo": 118,
+        "estado": "Judicial",
+        "limite_actual": 646975
+    },
+    {
+        "id_cliente": 1988,
+        "atraso_maximo": 2,
+        "estado": "Al dia",
+        "limite_actual": 843884
+    },
+    {
+        "id_cliente": 1989,
+        "atraso_maximo": 33,
+        "estado": "Mora",
+        "limite_actual": 76154
+    },
+    {
+        "id_cliente": 1990,
+        "atraso_maximo": 94,
+        "estado": "Judicial",
+        "limite_actual": 471862
+    },
+    {
+        "id_cliente": 1991,
+        "atraso_maximo": 41,
+        "estado": "Mora",
+        "limite_actual": 608792
+    },
+    {
+        "id_cliente": 1992,
+        "atraso_maximo": 46,
+        "estado": "Mora",
+        "limite_actual": 143970
+    },
+    {
+        "id_cliente": 1993,
+        "atraso_maximo": 39,
+        "estado": "Mora",
+        "limite_actual": 365269
+    },
+    {
+        "id_cliente": 1994,
+        "atraso_maximo": 15,
+        "estado": "Al dia",
+        "limite_actual": 398213
+    },
+    {
+        "id_cliente": 1995,
+        "atraso_maximo": 38,
+        "estado": "Mora",
+        "limite_actual": 939244
+    },
+    {
+        "id_cliente": 1996,
+        "atraso_maximo": 72,
+        "estado": "Mora",
+        "limite_actual": 600272
+    },
+    {
+        "id_cliente": 1997,
+        "atraso_maximo": 80,
+        "estado": "Mora",
+        "limite_actual": 835790
+    },
+    {
+        "id_cliente": 1998,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 122008
+    },
+    {
+        "id_cliente": 1999,
+        "atraso_maximo": 91,
+        "estado": "Judicial",
+        "limite_actual": 87257
+    },
+    {
+        "id_cliente": 2000,
+        "atraso_maximo": 28,
+        "estado": "Al dia",
+        "limite_actual": 729027
+    }
+]
