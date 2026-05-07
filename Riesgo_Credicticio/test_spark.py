@@ -2,7 +2,6 @@ import os
 import sys
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
-from pathlib import Path
 
 # Forzar el uso del Python del entorno virtual actual
 os.environ['PYSPARK_PYTHON'] = sys.executable
